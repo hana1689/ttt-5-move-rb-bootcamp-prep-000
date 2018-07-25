@@ -15,3 +15,7 @@ def input_to_index(position)
     return -1
   end
 end
+
+def move(array, index, character)
+  
+end
