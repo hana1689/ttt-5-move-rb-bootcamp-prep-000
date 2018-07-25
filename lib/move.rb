@@ -13,4 +13,5 @@ def input_to_index(position)
     return index
   else
     return -1
+  end
 end
